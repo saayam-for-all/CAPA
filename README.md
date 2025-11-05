@@ -28,3 +28,19 @@ Items are added to this repository only when the specific team collectively agre
 - The incident warrants postmortem documentation and preventive action.
 
 CAPA entries may only be created or approved by Executive Team members.
+
+# Handling Workflow
+
+Immediate Triage
+
+- Once a CAPA issue is opened, it is treated as a high-severity event.
+- A member of the DevSecOps team and SWAT team should be assigned within minutes of creation (e.g., within 15–20 minutes).
+- The assigned owner is responsible for initial validation and coordination with the affected team.
+
+Collaborative Assignment
+- Identify and tag the originating team (e.g., ML, Web, or API) within the comments.
+- Ensure at least one technical representative from that team is added as an assignee or collaborator.
+- Progress Tracking with Timestamps
+- All updates must be logged as comments on the GitHub issue, including timestamps. (Even which member was contacted and when!)
+
+
