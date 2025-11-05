@@ -42,5 +42,6 @@ Collaborative Assignment
 - Ensure at least one technical representative from that team is added as an assignee or collaborator.
 - Progress Tracking with Timestamps
 - All updates must be logged as comments on the GitHub issue, including timestamps. (Even which member was contacted and when!)
+- Once resolved, update the issue with - Summary of corrective actions taken and Preventive measures planned.
 
 
